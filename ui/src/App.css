@@ -1,0 +1,9 @@
+.App {
+  background-color: white;
+}
+
+.btn-logout{
+  float: right;
+  margin-top:10px;
+  margin-right: 20px;
+}
