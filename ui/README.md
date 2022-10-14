@@ -1,7 +1,9 @@
 #INSTRUCTIONS
 
 #To install dependencies
-npm install --legacy-peer-deps
+
+>npm install --legacy-peer-deps
 
 #To run the project
-npm start
+
+>npm start
