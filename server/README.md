@@ -1,7 +1,9 @@
 #INSTRUCTIONS
 
 #To install dependencies
-npm install
+
+>npm install
 
 #To run the project
-npm start
+
+>npm start
